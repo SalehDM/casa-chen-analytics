@@ -1,4 +1,5 @@
-# 📊 Data analysis y strategy: Buffet Casa Chen (Las Canteras, Gran Canaria)
+# 📊 Análisis de datos y estrategia: Buffet Casa Chen (Las Canteras, Gran Canaria)
+
 
 ![Dashboard Preview](images/dashboard_preview.gif)
 
