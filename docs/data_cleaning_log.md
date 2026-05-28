@@ -37,7 +37,7 @@ Este documento detalla el pipeline técnico y las operaciones lógicas ejecutada
 ### 5. Cálculo dinámico de edad
 *   **Acción**: La columna original del año de nacimiento (`YOB`) dificultaba la segmentación demográfica en tiempo real. Se creó la columna calculada `Age` determinando la edad biológica exacta basada en la fecha de la auditoría del proyecto:
     ```sheets
-    =SI(ESNUMERO(E2), AÑO(HOY()) - E2, "")
+    =SI(ESNUMERO(E2), 2025 - E2, "")
     ```
 
 ### 6. Cuantificación y mapeo de presupuesto
