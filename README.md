@@ -57,10 +57,10 @@ Se realizó un proceso riguroso de auditoría analítica sobre la base de datos 
 
 Tras consolidar el pipeline de datos y construir el cuadro de mando interactivo en Looker Studio, se extrajeron las siguientes realidades latentes del negocio:
 
-*   **Análisis por ubicación**: Tamaraceite lidera la satisfacción general del buffet (mediana de 3.5), mientras que la zona de Mesa y López presenta el rendimiento más bajo y requiere optimización operativa urgente (mediana de 3.0). Por su parte, Siete Palmas muestra opiniones altamente polarizadas registrando una **varianza de 1.48**.
+*   **Análisis por ubicación**: Los comensales residentes en Tamaraceite muestran la mayor satisfacción con el buffet (mediana 3.5), mientras que los clientes de Mesa y López registran la valoración más baja (mediana 3.0). El segmento de Siete Palmas presenta opiniones altamente polarizadas con una varianza de 1.48. Se recomienda investigar las diferencias de satisfacción entre barrios, estandarizando la experiencia para fidelizar a los clientes de Siete Palmas.
 *   **Psicografía y consumo**: Los clientes casados tienden a puntuar consistentemente a la baja (promedios entre 2.37 y 2.89), mientras que el consumo social de alcohol se correlaciona directamente con las mejores experiencias de usuario y notas más altas de satisfacción.
-*   **Riesgo operativo (La paradoja filipina)**: La cocina filipina es una de las más consumidas en volumen, pero registra la satisfacción más baja con un **3.04 / 5.00** (-0.16 por debajo de la media global). Esto sugiere una necesidad urgente de revisar recetas, sazón o frescura de insumos en barra.
-*   **Éxito de la cocina japonesa**: Se consolida como la diferenciación clave y el producto estrella del buffet, liderando los índices de satisfacción con una media de **3.58 / 5.00** (+0.38 por encima de la media global de 3.2). Está impulsada con fuerza por el segmento joven (15 a 24 años) que representa el **61% de la clientela total** y el nicho de personas divorciadas (medias de **4.5 a 4.92 / 5**).
+*   **Riesgo operativo (La paradoja filipina)**: La cocina filipina es una de las más consumidas en volumen, pero registra la satisfacción más baja con un **3.04 / 5.00** (-0.17 por debajo de la media global). Esto sugiere una necesidad urgente de revisar recetas, sazón o frescura de insumos en barra.
+*   **Éxito de la cocina japonesa**: Se consolida como la diferenciación clave y el producto estrella del buffet, liderando los índices de satisfacción con una media de **3.58 / 5.00** (+0.36 por encima de la media global de 3.2). Está impulsada con fuerza por el segmento joven (15 a 24 años) que representa el **61% de la clientela total** y el nicho de personas divorciadas (medias de **4.5 a 4.92 / 5**).
 
 ---
 
@@ -68,7 +68,7 @@ Tras consolidar el pipeline de datos y construir el cuadro de mando interactivo 
 
 Basado en la evidencia sólida de los datos, se propusieron tres líneas de acción estratégicas para la gerencia de Casa Chen:
 1.  **Fidelización digital segmentada**: Implementar campañas de marketing geolocalizadas en TikTok e Instagram para el público joven (15-24 años), utilizando la comida japonesa como gancho principal para revertir el **86.7%** de clientes no leales mediante cupones o programas de puntos por QR.
-2.  **Estandarización del servicio operativo**: Realizar una auditoría cruzada interna para replicar las buenas prácticas de servicio y cocina de Tamaraceite en la ubicación de Siete Palmas, mitigando su alta varianza de opiniones y estabilizando la marca.
+2.  **Estandarización del servicio operativo**: Realizar un análisis de expectativas para identificar qué factores causan la insatisfacción en el segmento de comensales procedentes de Siete Palmas, replicando las estrategias de atención que consolidan la alta fidelidad de los clientes de Tamaraceite.
 3.  **Optimización del espacio de barra**: Reducir la variedad e inventario de la cocina italiana (la menos consumida en todos los segmentos) y reasignar esos recursos económicos y metros de barra a potenciar la estación de sushi y cocina japonesa.
 
 ---
